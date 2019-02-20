@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is a file for testing 
-i want to know wheather something will happen
+I want to know wheather something will happen
+=======
+this is a file for testing 
+I want to know wheather something will happen
+>>>>>>> dev
